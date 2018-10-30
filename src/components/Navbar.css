@@ -1,0 +1,28 @@
+
+.bg{
+  background-color:#b1dee0;
+  width:100%;
+}
+a {
+  color: #b1dee0;
+  font-weight: 200;
+}
+.fon{
+    color:black;
+}
+.right{
+float: right;
+margin-right: 50px;
+}
+.button1{
+  background-color: #4CAF50; /* Green */
+      border: none;
+      color: white;
+      padding: 15px 32px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      margin: 4px 2px;
+      cursor: pointer;
+}

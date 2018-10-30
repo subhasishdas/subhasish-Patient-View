@@ -1,0 +1,16 @@
+.Car{
+  display: block;
+
+}
+.mar{
+  margin-left: 50px;
+  margin-right: 50px;
+    
+}
+.para{
+  font-size: 20px;
+  line-height: 26pt;
+}
+.back{
+  background-image: url('bck.jpg');
+}

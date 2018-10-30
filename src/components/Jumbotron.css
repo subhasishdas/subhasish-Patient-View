@@ -1,0 +1,43 @@
+.jumbotron {
+
+
+    background-image: url(../images/main_body_image.png );
+    background-repeat: no-repeat;
+  height: 100vh;
+    background-size: cover;
+
+}
+.font{
+  color:black;
+}
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+}
+.al{
+  padding-left: 25%;
+
+}
+.left-col {
+    float: left;
+    width:35%;
+    padding-right: 5%;
+
+}
+.center-col {
+    float: left;
+    width: 35%;
+    padding-right: 5%;
+}
+.right-col {
+    float: left;
+    width: 30%;
+    padding: 1%;
+}
+.cen{
+  align-content: center;
+padding-top: 5%;
+  padding-left: 15%;
+
+}

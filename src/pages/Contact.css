@@ -1,0 +1,17 @@
+.bg1{
+  background-image: url('bck.jpg');
+  height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* text-align: center; */
+    padding: 25%;
+
+}
+.im1{
+  height:70px;
+  width:70px;
+}
+.bb{
+  margin-left:23%;
+}

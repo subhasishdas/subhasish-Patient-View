@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+.margin{
+  margin-left: 200px;
+  padding-top:50px;
+  margin-right: 200px;
+  background-image: url('bck.jpg');
+  background-size: cover;
+}
+.bg{
+  background-image: url('bck.jpg');
+  background-size: cover;
+}
+.right {
+  float: right;
+}
+.left{
+  float: left;
+}
